@@ -11,14 +11,14 @@ export default function Home() {
   {/* Open Graph (Discord, Facebook, etc.) */}
   <meta property="og:title" content="NGL Sales Bot" />
   <meta property="og:description" content="Track HyperEVM NFT sales across Discord in real-time." />
-  <meta property="og:image" content="https://yourdomain.com/thumbnail.jpg" />
-  <meta property="og:url" content="https://ibb.co/G3FHJz26" />
+  <meta property="og:image" content="https://ibb.co/qLL0Hrtt" />
+  <meta property="og:url" content="nglsales.info" />
 
   {/* Twitter Card */}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="NGL Sales Bot" />
   <meta name="twitter:description" content="Track HyperEVM NFT sales across Discord in real-time." />
-  <meta name="twitter:image" content="https://ibb.co/G3FHJz26" />
+  <meta name="twitter:image" content="https://ibb.co/qLL0Hrtt" />
 </Head>
 
 
